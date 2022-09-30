@@ -16,4 +16,4 @@ Graph = dict[str, list[str]]
 
 def has_cycle(initial: str, graph: Graph) -> Optional[list[str]]:
     # The function's code goes here
-    ...
+    print("Hola Mundo")
